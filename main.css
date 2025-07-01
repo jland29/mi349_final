@@ -34,6 +34,11 @@ body {
     margin: 0.5%;
 }
 
+.vid-card {
+    width: 99%;
+    aspect-ratio: 16/9;
+}
+
 .main-login {
     margin-left: 5%;
     width: 90%;
